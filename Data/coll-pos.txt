@@ -1,0 +1,3 @@
+IBM            Equity    122.00 USD 2%       119.56 USD <br>
+FR001-GOV-5Y   Bond   122756.00 EUR 0%   137928.09 USD  <br>
+DE004-MUC-4Y   Bond   122000.00 EUR 0%   137078.65 USD  <br>

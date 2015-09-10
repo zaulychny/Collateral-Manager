@@ -1,0 +1,6 @@
+<Server>
+    <Name>Collateral Management</Name>
+    <Port>8081</Port>
+    <DefaultPage>index.apl</DefaultPage>             <!-- default page to load if none is specified in client request -->
+    <DefaultExtension>.apl</DefaultExtension>        <!-- default extension for page files -->
+</Server>
